@@ -1,0 +1,17 @@
+Copyright (c) 2012, Jacobs University Bremen
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Cite As 
+He, M., J. Vogt, H. Lühr, E. Sorbalo, A. Blagau, G. Le, and G. Lu (2012), A high-resolution model of field-aligned currents through empirical orthogonal functions analysis (MFACE), Geophys. Res. Lett., 39, L18105, doi:10.1029/2012GL053168.
+
+He, M., J. Vogt, H. Lühr, and E. Sorbalo (2014), Local time resolved dynamics of field-aligned currents and their response to solar wind variability, J. Geophys. Res. Space Physics, 119, 5305–5315, doi:10.1002/2014JA019776.
